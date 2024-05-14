@@ -1,6 +1,6 @@
 ---
 title: Linearly Structured World Representations in Maze-Solving Transformers
-openreview: https://openreview.net/forum?id=pZakRK1QHU
+openreview: pZakRK1QHU
 abstract: The emergence of seemingly similar representations across tasks and neural
   architectures suggests that convergent properties may underlie sophisticated behavior.
   One form of representation that seems particularly fundamental to reasoning in many
