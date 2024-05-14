@@ -1,0 +1,92 @@
+---
+booktitle: 'Proceedings of UniReps: the First Workshop on Unifying Representations
+  in Neural Models'
+shortname: UniReps
+year: '2023'
+volume: '243'
+start: 2023-12-15
+end: 2023-12-15
+published: 2024-05-14
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: unireps23
+month: 0
+cycles: false
+bibtex_editor: Fumero, Marco and Rodol\'a, Emanuele and Domine, Clementine and Locatello,
+  Francesco and Dziugaite, Karolina and Mathilde, Caron
+editor:
+- given: Marco
+  family: Fumero
+- given: Emanuele
+  family: Rodolá
+- given: Clementine
+  family: Domine
+- given: Francesco
+  family: Locatello
+- given: Karolina
+  family: Dziugaite
+- given: Caron
+  family: Mathilde
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of UniReps: the First Workshop on Unifying Representations in Neural Models
+    Held in Ernest N. Morial Convention Center, New Orleans, USA on 15 December 2023
+
+  Published as Volume 243 by the Proceedings of Machine Learning Research on 14 May 2024.
+
+  Volume Edited by:
+    Marco Fumero
+    Emanuele Rodolá
+    Clementine Domine
+    Francesco Locatello
+    Karolina Dziugaite
+    Caron Mathilde
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 15 Dec
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v243"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v243
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v243
+email: ''
+conference:
+  name: 'Proceedings of UniReps: the First Workshop on Unifying Representations in
+    Neural Models'
+  url: https://unireps.org
+  location: Ernest N. Morial Convention Center, New Orleans, USA
+  dates:
+  - 2023-12-15
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v243/unireps23.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v243/unireps23.bib
